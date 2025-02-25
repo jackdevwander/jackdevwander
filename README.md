@@ -84,11 +84,4 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackdevwander&show_icons=true&locale=en" alt="jackdevwander" />
-</p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jackdevwander&" alt="jackdevwander" />
-</p>
